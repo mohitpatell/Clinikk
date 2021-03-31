@@ -1,6 +1,6 @@
-# Node Js Auth 
+# Clinikk
 
-Api services that connects with frontend
+Backend for Clinikk TV
 
 # Getting started
 
@@ -20,7 +20,8 @@ npm install
 ```javascript
 npm start
 ```
-
+# API Documentation 
+ * https://documenter.getpostman.com/view/6685033/TzCMcTb6 *
 # License
 
 # Contact
